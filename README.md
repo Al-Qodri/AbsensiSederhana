@@ -1,2 +1,14 @@
-# AbsensiSederhana
-Website absensi online berbasis web yang memungkinkan pengguna mencatat kehadiran dengan mudah dan cepat. Dibuat menggunakan HTML, CSS, dan JavaScript — cocok untuk latihan pemrograman dasar atau proyek sekolah. Versi lanjutan dapat ditambahkan fitur penyimpanan data menggunakan PHP &amp; MySQL atau LocalStorage.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
