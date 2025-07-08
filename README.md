@@ -1,14 +1,23 @@
-# Run and deploy your AI Studio app
+2. Buka `index.html` di browser (untuk versi lokal).
+3. Jika menggunakan PHP, jalankan via XAMPP atau server lokal.
+4. Mulai catat absensi!
 
-This contains everything you need to run your app locally.
+---
 
-## Run Locally
+## 📄 Lisensi
 
-**Prerequisites:**  Node.js
+Lisensi: [MIT License](https://opensource.org/licenses/MIT)  
+Proyek ini bebas digunakan untuk pembelajaran dan pengembangan lebih lanjut.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📬 Kontak
+
+Jika kamu tertarik untuk berdiskusi atau mengembangkan proyek ini bersama:
+
+- Email: `kmsmalqodri@gmail.com
+- GitHub: [@usernamekamu](https://github.com/Al-Qodri)
+
+---
+
+Terima kasih sudah mengunjungi repositori ini! 🚀
